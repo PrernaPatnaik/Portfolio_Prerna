@@ -139,14 +139,14 @@ document.addEventListener('DOMContentLoaded', function() {
 const projects = [{
     title: "Hotel Management System",
     description: "A full-featured hotel management system with real-time inventory management and secure payment processing.",
-    image: "https://storage.googleapis.com/a1aa/image/YxYhD6aiuUtTs0hw2u8DfVAluYc_LSc3rQ-4eufigR8.jpg",
+    image: "./assets/Hotel-Mangement-website.png",
     tags: ["HTML", "CSS", "JAVASCRIPT", "JAVA", "MYSQL"],
     demoLink: "#",
     sourceLink: "#"
 }, {
     title: "My Portfolio",
     description: "A portfolio is a collection of work samples, projects, or documents that showcase an individual's skills, experiences, and accomplishments in a particular field.",
-    image: "https://storage.googleapis.com/a1aa/image/LKteYyc8LsyOV26KI7I47TaR7lU_2ffhwZKvsHcVdhE.jpg",
+    image: "./assets/prerna-Portfolio.png",
     tags: ["Javascript", "HTML", "Tailwind CSS"],
     demoLink: "#",
     sourceLink: "#"
