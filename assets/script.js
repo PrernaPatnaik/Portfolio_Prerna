@@ -148,7 +148,7 @@ const projects = [{
     description: "A portfolio is a collection of work samples, projects, or documents that showcase an individual's skills, experiences, and accomplishments in a particular field.",
     image: "./assets/prerna-Portfoilo.png",
     tags: ["Javascript", "HTML", "Tailwind CSS"],
-    demoLink: "#",
+    demoLink: "https://prernapatnaik.github.io/Portfolio_Prerna/",
     sourceLink: "#"
 }, {
     title: "AI-Powered Blog Platform",
